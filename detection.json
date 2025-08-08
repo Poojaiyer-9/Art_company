@@ -1,0 +1,32 @@
+{
+  "predictions": [
+    {
+      "x": 428,
+      "y": 294,
+      "width": 280,
+      "height": 395,
+      "confidence": 0.944313645362854,
+      "class": "plant",
+      "class_id": 0,
+      "detection_id": "93c44cdd-7354-4755-8bd0-3c7be32db4a8",
+      "image_path": "50.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 86,
+      "y": 450,
+      "width": 26,
+      "height": 137,
+      "confidence": 0.8782252073287964,
+      "class": "ref_obj",
+      "class_id": 1,
+      "detection_id": "08152b8e-04f3-46ec-aefa-a414dd7466c2",
+      "image_path": "50.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    }
+  ],
+  "image": {
+    "width": "800",
+    "height": "800"
+  }
+}
